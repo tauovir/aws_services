@@ -1,0 +1,4 @@
+When you need to edit just one file without creating or loading the whole project in PyCharm, you can use the LightEdit mode.
+
+Keep in mind that the LightEdit mode works as a text-like editor, and it doesn't support the usual IDE editor features such as code completion, or code navigation. However, you can navigate to a specific line
+

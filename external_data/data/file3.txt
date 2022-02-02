@@ -1,0 +1,2 @@
+This command lets you find occurrences of the current word independently on its structural meaning — it can be anything in your document: an identifier or a keyword in the code, a word in a string literal or a comment, an XML tag or attribute, or even a number. If any matches are found, you can quickly navigate between them.
+

@@ -1,0 +1,3 @@
+When you work with code, PyCharm ensures that your work is stress-free. It offers various shortcuts and features to help you add, select, copy, move, edit, fold, find occurrences, and save code.
+
+For navigation inside the editor, refer to Editor basics.
